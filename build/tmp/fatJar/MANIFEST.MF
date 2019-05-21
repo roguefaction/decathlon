@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: DecathlonCalc
+Implementation-Version: 1.0
+Main-Class: DecathlonCalculator
+

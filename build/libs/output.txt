@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<players>
+    <player>
+        <name>Siim Susi</name>
+        <benchmark100mInSeconds>12.61</benchmark100mInSeconds>
+        <benchmarkLongJumpInMetres>5.0</benchmarkLongJumpInMetres>
+        <benchmarkShotPutInMetres>9.22</benchmarkShotPutInMetres>
+        <benchmarkHighJumpInMetres>1.5</benchmarkHighJumpInMetres>
+        <benchmark400mInSeconds>60.39</benchmark400mInSeconds>
+        <benchmark110mHurdlesInSeconds>16.43</benchmark110mHurdlesInSeconds>
+        <benchmarkDiscusThrowInMetres>21.6</benchmarkDiscusThrowInMetres>
+        <benchmarkPoleVaultInMetres>2.6</benchmarkPoleVaultInMetres>
+        <benchmarkJavelinThrowInMetres>35.81</benchmarkJavelinThrowInMetres>
+        <benchmark1500mInMinutes>5.25.72</benchmark1500mInMinutes>
+        <overallPoints>4200</overallPoints>
+        <placeInCompetition>1</placeInCompetition>
+    </player>
+    <player>
+        <name>Jaana Lind</name>
+        <benchmark100mInSeconds>13.75</benchmark100mInSeconds>
+        <benchmarkLongJumpInMetres>4.84</benchmarkLongJumpInMetres>
+        <benchmarkShotPutInMetres>10.12</benchmarkShotPutInMetres>
+        <benchmarkHighJumpInMetres>1.5</benchmarkHighJumpInMetres>
+        <benchmark400mInSeconds>68.44</benchmark400mInSeconds>
+        <benchmark110mHurdlesInSeconds>19.18</benchmark110mHurdlesInSeconds>
+        <benchmarkDiscusThrowInMetres>30.85</benchmarkDiscusThrowInMetres>
+        <benchmarkPoleVaultInMetres>2.8</benchmarkPoleVaultInMetres>
+        <benchmarkJavelinThrowInMetres>33.88</benchmarkJavelinThrowInMetres>
+        <benchmark1500mInMinutes>6.22.75</benchmark1500mInMinutes>
+        <overallPoints>3494</overallPoints>
+        <placeInCompetition>2</placeInCompetition>
+    </player>
+    <player>
+        <name>Beata Kana</name>
+        <benchmark100mInSeconds>13.04</benchmark100mInSeconds>
+        <benchmarkLongJumpInMetres>4.53</benchmarkLongJumpInMetres>
+        <benchmarkShotPutInMetres>7.79</benchmarkShotPutInMetres>
+        <benchmarkHighJumpInMetres>1.55</benchmarkHighJumpInMetres>
+        <benchmark400mInSeconds>64.72</benchmark400mInSeconds>
+        <benchmark110mHurdlesInSeconds>18.74</benchmark110mHurdlesInSeconds>
+        <benchmarkDiscusThrowInMetres>24.2</benchmarkDiscusThrowInMetres>
+        <benchmarkPoleVaultInMetres>2.4</benchmarkPoleVaultInMetres>
+        <benchmarkJavelinThrowInMetres>28.2</benchmarkJavelinThrowInMetres>
+        <benchmark1500mInMinutes>6.50.76</benchmark1500mInMinutes>
+        <overallPoints>3199</overallPoints>
+        <placeInCompetition>3-4</placeInCompetition>
+    </player>
+    <player>
+        <name>Duplicate Guy</name>
+        <benchmark100mInSeconds>13.04</benchmark100mInSeconds>
+        <benchmarkLongJumpInMetres>4.53</benchmarkLongJumpInMetres>
+        <benchmarkShotPutInMetres>7.79</benchmarkShotPutInMetres>
+        <benchmarkHighJumpInMetres>1.55</benchmarkHighJumpInMetres>
+        <benchmark400mInSeconds>64.72</benchmark400mInSeconds>
+        <benchmark110mHurdlesInSeconds>18.74</benchmark110mHurdlesInSeconds>
+        <benchmarkDiscusThrowInMetres>24.2</benchmarkDiscusThrowInMetres>
+        <benchmarkPoleVaultInMetres>2.4</benchmarkPoleVaultInMetres>
+        <benchmarkJavelinThrowInMetres>28.2</benchmarkJavelinThrowInMetres>
+        <benchmark1500mInMinutes>6.50.76</benchmark1500mInMinutes>
+        <overallPoints>3199</overallPoints>
+        <placeInCompetition>3-4</placeInCompetition>
+    </player>
+    <player>
+        <name>Anti Loop</name>
+        <benchmark100mInSeconds>13.43</benchmark100mInSeconds>
+        <benchmarkLongJumpInMetres>4.35</benchmarkLongJumpInMetres>
+        <benchmarkShotPutInMetres>8.64</benchmarkShotPutInMetres>
+        <benchmarkHighJumpInMetres>1.5</benchmarkHighJumpInMetres>
+        <benchmark400mInSeconds>66.06</benchmark400mInSeconds>
+        <benchmark110mHurdlesInSeconds>19.05</benchmark110mHurdlesInSeconds>
+        <benchmarkDiscusThrowInMetres>24.89</benchmarkDiscusThrowInMetres>
+        <benchmarkPoleVaultInMetres>2.2</benchmarkPoleVaultInMetres>
+        <benchmarkJavelinThrowInMetres>33.48</benchmarkJavelinThrowInMetres>
+        <benchmark1500mInMinutes>6.51.01</benchmark1500mInMinutes>
+        <overallPoints>3099</overallPoints>
+        <placeInCompetition>5</placeInCompetition>
+    </player>
+</players>

@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+}
+
+group 'onboarding'
+version '1.0'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+//repositories {
+//    mavenCentral()
+//}
+
+// custom local repository
+
+task fatJar(type: Jar) {
+    manifest {
+        attributes 'Implementation-Title': 'DecathlonCalc',
+                'Implementation-Version': version,
+                'Main-Class': 'DecathlonCalculator'
+    }
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+//    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile name: 'junit-4.12'
+    testCompile name: 'hamcrest-core-1.3'
+}
